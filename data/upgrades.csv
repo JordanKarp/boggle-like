@@ -1,0 +1,14 @@
+1_free,+1 freebie,10,True,False
+5_sec,+5 seconds to round time,20,True,False
+inc_score,+0.1 to a score multiplier,30,True,False
+red_win,Reduce win percent by 1,40,True,False
+1_el,+1 extra life,200,True,False
+rem_two,Remove 2 letter words,50,False,True
+add_time,Accumulate time on 100%,50,True,True
+order_ans,Order answers by length,50,False,True
+un_5,Unlock 5 letter words,50,False,True
+un_6,Unlock 6 letter words,50,False,True
+un_7,Unlock 7 letter words,50,False,True
+un_8,Unlock 8 letter words,50,False,True
+un_9,Unlock 9 letter words,50,False,True
+un_10,Unlock 10 letter words,50,False,True

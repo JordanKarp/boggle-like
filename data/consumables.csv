@@ -1,0 +1,6 @@
+1_free,+1 freebie,10,True,False
+30_sec,+30 seconds (once),10,True,False
+5_sec,+5 seconds to round time,20,True,False
+inc_score,+0.1 to a score multiplier,30,True,False
+red_win,Reduce win percent by 1,40,True,False
+1_el,+1 extra life,200,True,False
